@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @wal3ska
-- 👀 I’m interested in cryptocurrency and coding
-- 🌱 I’m currently learning 
-- 📫 How to reach me anilserdar.unal20@gmail.com
+
