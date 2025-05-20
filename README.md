@@ -1,1 +1,2 @@
-Ben Anıl, TOBB ETÜ Yapay Zeka Mühendisligi öğrencisiyim BİL113 dersinden kaldim
+Anıl Serdar ÜNAL
+TOBB ETÜ Yapay Zeka Mühendisligi Lisans
